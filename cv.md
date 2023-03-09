@@ -40,9 +40,9 @@ function slider() {
 https://github.com/aliakseiMaiseyeu/bobrzabor.by
 
 <h3>Образование</h3>
-<strong>Программирование:</strong>
-Обучался самостоятельно в основном на Youtube
+<strong>Программирование:</strong><br>
+Обучался самостоятельно в основном на Youtube<br>
 
-<strong>Языки: </strong>
-Ангиский: A1
+<strong>Языки: </strong> <br>
+Ангиский: A1 <br>
 Чешский: А1
